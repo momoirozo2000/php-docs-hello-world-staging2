@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World! Production";
+echo "Hello World! Staging2";
